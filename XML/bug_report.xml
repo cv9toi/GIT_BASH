@@ -1,0 +1,10 @@
+<main>
+<ID>123</ID>
+<Auor>Канаев Валерий</Auor>
+<date>29.05.2022</date>
+<name>GitHub</name>
+<version>11.11.11</version>
+<description>Меню Settings не активно</description>
+<er>при нажатии на меню Settings должно открыться меню с настройками</er>
+<ar>Фактический результатпри нажатии на меню Settingss ничего не происходит</ar>
+</main>
